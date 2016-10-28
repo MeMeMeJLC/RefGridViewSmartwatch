@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Footie Ref</string>
+    <string name="welcome_title">Footie Ref</string>
+    <string name="welcome_text">Hi Ref!</string>
+
+    <string name="about_title">Display Game</string>
+    <string name="about_text">Game stats here.</string>
+
+    <string name="cards_title">Players</string>
+    <string name="cards_text">Players here</string>
+
+    <string name="expansion_title">Goals</string>
+    <string name="expansion_text">Goals here</string>
+
+    <string name="backgrounds_title">Penaties</string>
+    <string name="backgrounds_text">Penalties here</string>
+
+    <string name="columns_title">Substitutions</string>
+    <string name="columns_text">Substitutions here</string>
+
+    <string name="dismiss_title">Dismiss</string>
+    <string name="dismiss_text">To exit the application, swipe from left to
+        right.</string>
+
+</resources>
